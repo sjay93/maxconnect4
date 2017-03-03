@@ -1,9 +1,6 @@
 Name: 
 Jay Shah
 
-ID:
-1001447749
-
 Programming Language used:
 Java
 
